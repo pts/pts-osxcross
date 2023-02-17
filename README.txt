@@ -58,6 +58,10 @@ The compilers and other tools on the host Linux system are not used. Only
 these are needed on the host: /bin/sh, /bin/readlink (optional),
 /proc mounted, /tmp for tempary files, /dev/null.
 
+Please note that pts-osxcross as of now has no special support for Cmake,
+GNU autoconf (configure) or package managers (such as MacPorts and
+Homebrew).
+
 pts-osxcross was created this way:
 
 * Copying all files out from the multiarch/crossbuild Docker image
