@@ -16,9 +16,9 @@ Ubuntu 14.04 and 18.04).
 
 To download and extract:
 
-  $ wget -O pts_osxcross_10.10.v1.sfx.7z https://github.com/pts/pts-osxcross/releases/download/v1/pts_osxcross_10.10.v1.sfx.7z
-  $ chmod +x pts_osxcross_10.10.v1.sfx.7z
-  $ ./pts_osxcross_10.10.v1.sfx.7z
+  $ wget -O pts_osxcross_10.10.v2.sfx.7z https://github.com/pts/pts-osxcross/releases/download/v2/pts_osxcross_10.10.v2.sfx.7z
+  $ chmod +x pts_osxcross_10.10.v2.sfx.7z
+  $ ./pts_osxcross_10.10.v2.sfx.7z
   (This creates and populates directory pts_osxcross_10.10 .)
 
 To download the sample program source:
